@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    font-family: 'Lato', sans-serif;  
+}
+
+body {
+    font-family: Lato;
+    background-color: #EEE8DA;
+    color:#231F20;
+}
+
+main {
+    padding: 32px;
+   text-align: center; 
+}
+
+main img {
+    width: 250px;
+
+}
+
+h2{
+    margin-bottom: 15px;
+}
+
+label,select {
+    display: block;
+    margin-bottom: 4px;
+}
+
+input, textarea, select{
+    border: none;
+    padding: 8px 16px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+select {
+    margin:  0px auto 15px;
+}
+
+button{
+    background-color: #413026;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
